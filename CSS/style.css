@@ -1,0 +1,15 @@
+.h:hover{
+    display: none;
+}
+
+.i:hover{
+    display: block;
+}
+
+
+
+.f{
+    .i {
+        display: none;
+    }
+}
