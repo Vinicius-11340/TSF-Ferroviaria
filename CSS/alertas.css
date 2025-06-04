@@ -1,0 +1,11 @@
+body{
+    height: calc(100vh - 56px);
+}
+
+html{
+    height: 100vh;
+}
+
+.margin-top{
+    margin-top: 56px;
+}
